@@ -1,8 +1,7 @@
-# Python Libraries
-Numpy+Pandas+Matploilib
 
 # 📊 Python Data Science – Core Libraries
 
+Numpy+Pandas+Matploilib
 A structured reference notebook series covering the three foundational Python libraries for data science: **NumPy**, **Pandas**, and **Matplotlib**. Each notebook is clean, well-commented, and designed to run top-to-bottom without errors.
 
 ---
