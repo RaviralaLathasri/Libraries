@@ -12,8 +12,8 @@ A structured reference notebook series covering the three foundational Python li
 ```
 📦 python-data-science/
 ├── README.md
-├── Numpy_Clean.ipynb       # Array computing with NumPy
-├── Pandas_Clean.ipynb      # Data manipulation with Pandas
+├── Numpy.ipynb       # Array computing with NumPy
+├── Pandas.ipynb      # Data manipulation with Pandas
 └── Matplotlib.ipynb        # Data visualisation with Matplotlib
 ```
 
